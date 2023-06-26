@@ -1,7 +1,6 @@
 # calender
 '''
 import calendar
-
 def display_calendar(year, month):
     """Displays a calendar for the specified year and month."""
     # Create a calendar object
@@ -20,11 +19,9 @@ def display_calendar(year, month):
             else:
                 print("  ", end=" ")
         print()
-
 # Get the year and month from the user
 year = int(input("Enter the year: "))
 month = int(input("Enter the month (1-12): "))
-
 # Call the function to display the calendar
 display_calendar(year, month)
 '''
