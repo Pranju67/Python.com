@@ -1,4 +1,6 @@
+# code for calculator
 '''
+{
 first = input("Enter first number : ")
 operator = input("Enter operator (+,-,*,/,%): ")
 second = input("Enter second number : ")
@@ -18,3 +20,4 @@ elif operator == "%":
 else:
     print("Invalid Operation")
 '''
+}
