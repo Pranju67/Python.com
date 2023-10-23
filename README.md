@@ -1,6 +1,6 @@
 [![MasterHead](https://imgs.search.brave.com/nI4F7E50d1edCJ3_XKjwQlfn9QvJzqfNEgASQ3wQJRA/rs:fit:1140:225:1/g:ce/aHR0cHM6Ly90c2Uy/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5U/ckl0WTNZYnRlcm9i/SEt0ZkFQR3p3SGFE/RiZwaWQ9QXBp)](https://rishavchanda.io)
-<h1 align="center"> WELCOME🙏 TO KEIL REPOSITORY</h1>
-<h3 align="center">This contains Keil Programs</h3>
+<h1 align="center"> WELCOME🙏 TO PYTHON REPOSITORY</h1>
+<h3 align="center">This contains Python Programs</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=charminar-3000&label=Profile%20views&color=0e75b6&style=flat" alt="charminar-3000" /> </p>
 
 - 🌱 I’m currently learning **Assembly Language**
